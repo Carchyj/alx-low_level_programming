@@ -5,3 +5,4 @@
 4. program that prints the alphabets execpt q and e in lowercase, followed by a new line.
 5. program that prints all single digit numbers of base 10 starting from 0, folllowed by a new line.
 6. program that prints all single digit numbers of base 10 starting from 0 using putchar.
+7. prgram that prints the lowercase alphabets but in reverse.
