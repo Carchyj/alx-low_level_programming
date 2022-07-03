@@ -2,3 +2,4 @@
 1. program that assigns a random number to the variable n each time it is executed.
 2. program that prints the alphabets in lowercase, followed by a new line.
 3. program that prints the alphabets in lowercase, and then in uppercase.
+4. program that prints the alphabets execpt q and e in lowercase, followed by a new line.
