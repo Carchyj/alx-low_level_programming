@@ -1,3 +1,4 @@
-0.  program will assign a random number to the variable n each time it is executed.
-1. program will assign a random number to the variable n each time it is executed.
-2. program that will print the alphabets in lowercase, followed by a new line.
+0.  program that assigns a random number to the variable n each time it is executed.
+1. program that assigns a random number to the variable n each time it is executed.
+2. program that prints the alphabets in lowercase, followed by a new line.
+3. program that prints the alphabets in lowercase, and then in uppercase.
