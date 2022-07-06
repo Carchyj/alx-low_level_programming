@@ -2,7 +2,6 @@
 
 /**
 *print_alphabet - function that prints alphabet in lowercase.
-*Return: Always 0
 */
 void print_alphabet(void)
 {
@@ -13,5 +12,4 @@ for (y = 'a'; y <= 'z'; y++)
 _putchar(y);
 }
 _putchar('\n');
-return (0);
 }
