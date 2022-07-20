@@ -4,3 +4,4 @@ Readme for 0x05-pointers_arrays_strings
 2. function that returns the length of a string.
 3. function that prints a string, followed by a new line, to stdout.
 4. function that prints a string in reverse.
+5. function that reverses a string.
