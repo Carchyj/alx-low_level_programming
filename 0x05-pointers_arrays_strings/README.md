@@ -6,3 +6,4 @@ Readme for 0x05-pointers_arrays_strings
 4. function that prints a string in reverse.
 5. function that reverses a string.
 6. function that prints every other character of a string, starting with the first character.
+7. function that prints hlf of  string, followedd by a new line.
