@@ -6,7 +6,7 @@
  */
 void _puts_recursion(char *s)
 {
-	s = "ram\0"
+	s = "ram\0";
 		if (*s == '\0')
 		{
 			_putchar('\n');
