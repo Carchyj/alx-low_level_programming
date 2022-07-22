@@ -3,6 +3,8 @@
 int check_prime(int, int);
 /**
  * is_prime_number - prime identifier.
+ * @n: number
+ * Return: an integer
  */
 int is_prime_number(int n)
 {
@@ -20,8 +22,8 @@ int check_prime(int n, int i)
 	if (n <= 1)
 		return (0);
 	if (n % i == 0 && i > 1)
-		eturn (0);
+		return (0);
 	if ((n / i) < i)
-		print (1);
+		return (1);
 	return (check_prime(n, i + 1));
 }
